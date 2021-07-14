@@ -30,8 +30,8 @@ month & year the file is created. While functioning, a new folder will be create
 ## How to run
 
 - To organize by extension : python <filename.py> --org ext
- - To organize by size : python <filename.py> --org size
- - To organize by month & Year : python <filename.py> --org month 
+- To organize by size : python <filename.py> --org size
+- To organize by month & Year : python <filename.py> --org month 
 
-User defined path : python <filename.py> --path “ <path of the files to be organized> “
+- User defined path : python <filename.py> --path “ <path of the files to be organized> “
 
